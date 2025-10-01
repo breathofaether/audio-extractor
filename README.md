@@ -36,21 +36,21 @@ git clone https://github.com/yourusername/audio-extractor-c.git
 cd audio-extractor-c
 ```
 
-2. **Compile the program
+2. **Compile** the program
    
 ```bash
 gcc main.c -o audio_extract
 ```
 
-3. **Place your video file in the same folder as the compiled program.
+3. **Place your video file in the same folder as the compiled program.**
 
-4. **Run the program:
+4. **Run the program:**
    
 ```bash
 ./audio_extract   # Linux/Mac
 audio_extract.exe # Windows
 ```
-6. Follow the prompts.
+6. **Follow the prompts.**
 
 ---
 
